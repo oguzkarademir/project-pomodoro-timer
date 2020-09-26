@@ -1,43 +1,51 @@
-# JavaScript Quiz
+# Development Strategy
 
-...
+> `Asyncronous Programming week 1`
 
----
+## Project pomodoro timer
 
-## User Story Dependencies
+### WIREFRAME
 
-[Story Dependency Diagram](https://excalidraw.com/)
-
----
-
-## WIREFRAME
-
-![wireframe]()
+![wireframe](/public/assets/wireframe-1.png)
 
 ---
 
-## 0.Setup
+### 0. Set-Up
+
+_A User can see my initial repository and live demo_
+
+### Repository
+
+- Created a new repository from this [template](https://github.com/HackYourFutureBelgium/starter-basic-import-export)
+- Clone the repository
+- Add a wireframe
+- Create HTML-CSS structure on branch `master`
+- Start the development strategy
+- Push the changes to GitHub
+- Turn on GitHub Pages
 
 ---
 
-## 1. Initialize Application
+## 1. ...
 
-__As a user I want to see the initial page when I load the site__
+> _assigned to Oguz_
 
-- _Given [context] when [a specific action is performed] then [a set of consequences should occur]__
-- ...
+__As a user ...__
 
-### REPO
+### Repo
 
-- This user story is developed on branch `_`.
-- This branch is merged to `master` branch after completion.
+This user story has been developed through a branch called `...`
 
-### Task A
+### HTML
 
-### Task B
+- 
 
-### Task ...
+### CSS
+
+- 
+
+### Javascript
+
+- 
 
 ---
-
-## ...
